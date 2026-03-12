@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TiffinHunt</string>
+    <string name="facebook_app_id">1029461407437649</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">[ACCOUNT_KIT_CLIENT_TOKEN]</string>
+</resources>

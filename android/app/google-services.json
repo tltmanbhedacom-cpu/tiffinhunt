@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "601343800396",
+    "firebase_url": "https://tiffin-hunt.firebaseio.com",
+    "project_id": "tiffin-hunt",
+    "storage_bucket": "tiffin-hunt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:601343800396:android:eb1a17bdce3bfb4b6c70e9",
+        "android_client_info": {
+          "package_name": "com.tiffinhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "601343800396-6d19ufgosn5r98np3vos2cimp4joj01t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiffinhunt",
+            "certificate_hash": "8c1c4f7c525624999800c0f29271e025972bbe96"
+          }
+        },
+        {
+          "client_id": "601343800396-i0mks5m45v54tol9f8b3dmf9f6f7opif.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tiffinhunt",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "601343800396-r0l6jf7a43s81ln4ok73u4d05gb8fl97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd-oNekkwJde_oF0Piu7wkrQVBk31-8YM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "601343800396-r0l6jf7a43s81ln4ok73u4d05gb8fl97.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "601343800396-foqvjv08g706eiggqonvnp52s8te6n8p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tiffinhunt"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

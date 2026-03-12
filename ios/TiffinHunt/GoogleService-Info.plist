@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>601343800396-foqvjv08g706eiggqonvnp52s8te6n8p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.601343800396-foqvjv08g706eiggqonvnp52s8te6n8p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>601343800396-i0mks5m45v54tol9f8b3dmf9f6f7opif.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvM4RLX9ENQOAZxnhZCeYnGi496SXvLkI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>601343800396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tiffinhunt</string>
+	<key>PROJECT_ID</key>
+	<string>tiffin-hunt</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tiffin-hunt.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:601343800396:ios:531b61ab5815635f6c70e9</string>
+	<key>DATABASE_URL</key>
+	<string>https://tiffin-hunt.firebaseio.com</string>
+</dict>
+</plist>

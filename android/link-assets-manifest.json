@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/BalooBhaina-Regular.ttf",
+      "sha1": "409a375c44005026fe9571ad0759a55cbb7bb4b3"
+    },
+    {
+      "path": "assets/fonts/Poppins-Bold.otf",
+      "sha1": "fc40855366c1f38478de1473bf483a4ad5d515ac"
+    },
+    {
+      "path": "assets/fonts/Poppins-ExtraBold.otf",
+      "sha1": "d1c2b0934a312e45e8ac0e4ce40916909ce957de"
+    },
+    {
+      "path": "assets/fonts/Poppins-Light.otf",
+      "sha1": "37c17e7bee737afaa91b0880df6cbd1f43f1a270"
+    },
+    {
+      "path": "assets/fonts/Poppins-Medium.otf",
+      "sha1": "e566106c0be5bca5cb3dd0223953310774f7ca59"
+    },
+    {
+      "path": "assets/fonts/Poppins-Regular.otf",
+      "sha1": "e6fe7a5a39e5e9eabeceb3c853117827367d5c91"
+    },
+    {
+      "path": "assets/fonts/Poppins-SemiBold.otf",
+      "sha1": "8c0d5c6d40881839910161929e727aac847666c6"
+    }
+  ]
+}
